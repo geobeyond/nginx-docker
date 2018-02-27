@@ -1,4 +1,4 @@
 FROM nginx
-MAINTAINER Ariel Núñez <ariel@terranodo.io>
+MAINTAINER Francesco Bartoli <francesco.bartoli@geobeyond.it>
 
 COPY nginx.conf /etc/nginx/nginx.conf
